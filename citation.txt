@@ -1,0 +1,7 @@
+@article{REPO107,
+    author = "Ye, Weishan and Zhang, Zhiguo and Teng, Fei and Zhang, Min and Wang, Jianhong and Ni, Dong and Li, Fali and Xu, Peng and Liang, Zhen",
+    journal = "IEEE Transactions on Affective Computing",
+    publisher = "IEEE",
+    title = "{Semi-supervised dual-stream self-attentive adversarial graph contrastive learning for cross-subject eeg-based emotion recognition}",
+    year = "2024"
+}
